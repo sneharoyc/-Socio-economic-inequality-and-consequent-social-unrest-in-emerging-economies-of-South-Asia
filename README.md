@@ -1,4 +1,6 @@
-# Socio-economic-inequality-and-consequent-social-unrest-in-emerging-economies-of-South-Asia
+Socio-economic-inequality-and-consequent-social-unrest-in-emerging-economies-of-South-Asia
+
+
 <img width="363" alt="image" src="https://github.com/sneharoyc/-Socio-economic-inequality-and-consequent-social-unrest-in-emerging-economies-of-South-Asia/assets/146627804/2a946b67-d9f3-478c-882c-630e863d3a9f">
 
 
@@ -16,3 +18,8 @@
 
 <img width="392" alt="image" src="https://github.com/sneharoyc/-Socio-economic-inequality-and-consequent-social-unrest-in-emerging-economies-of-South-Asia/assets/146627804/3e36acd4-e338-48f2-a6e8-615b1fb31297">
 
+
+
+Socio-economic profiles of the different locations selected for the walkthrough (left); income deprivation affecting children index (right top) and income deprivation affecting older people index (right bottom) as examples of the variance in the different neighbourhoods. 
+
+<img width="432" alt="image" src="https://github.com/sneharoyc/Exploratory-Data-Analysis/assets/146627804/29f293f2-c111-41d8-9252-14b2742825d9">
